@@ -17,10 +17,14 @@
 
 Олдсон аялал: Supermodel.
 
-Баталгаажуулалт: session-ийн зураг, тэмдэглэлд тулгуурласан. Энэ commit-д Firefox дээр шинээр асаасан төлөвөөс UI-ийн дахин шалгалт хийгдээгүй.
+Баталгаажуулалт: 2026-10-20-нд шинэ clone-ийн аппыг дахин асааж, Chromium суурьтай апп доторх браузераар зөрчлийг давтан шалгасан. Session-ийн эх зураг нь Firefox-ийнх; доорх recheck зургууд тусдаа.
 
 ## Хавсралт
 
 ![BUG-09](../screenshots/bug-07-long-author-layout.png)
 
 ![BUG-09](../screenshots/bug-01-missing-title.png)
+
+## Дахин шалгасан зураг
+
+![BUG-09 recheck](../screenshots/recheck/baseline-count-year-color.jpg)

@@ -1,0 +1,22 @@
+Lab07 final verification
+Recorded: 2026-10-20T21:36:19+08:00
+Fresh-check checkout commit: 46f4959736d4633e78d49a50130d0398c9f7a396
+Charter before approximate session start: 2026-10-20T19:54:57+08:00
+Original app, charter, notes and previous evidence unchanged; raw notes preserved in report.
+11 reports, 10 debrief sentences, relative links, image signatures and ignore rules checked.
+Original session screenshots: 26; separate recheck screenshots: 12.
+UI recheck browser: Chromium-based in-app browser; original session used Firefox.
+REPRODUCED BUG-01: empty title added; empty year stored as 0 (separate fresh starts).
+REPRODUCED BUG-02: three identical Duplicate Test rows after three adds.
+REPRODUCED BUG-03: original-case title/author found; case variants not found.
+REPRODUCED BUG-04: six rows/counter 7; empty table/counter 1.
+REPRODUCED BUG-05: deleting Clean Code displayed add-success message.
+NOT REPRODUCED BUG-06: fresh start -> search Clean Code -> delete removed the correct book.
+REPRODUCED BUG-07: LongTitle x100 (900 chars); table 6806 px, viewport 614 px.
+REPRODUCED BUG-08: years displayed with thousands separators.
+REPRODUCED BUG-09: delete buttons displayed green.
+REPRODUCED BUG-10: /old returned HTTP 500 on fresh-check app.
+REPRODUCED BUG-11: malformed JSON returned HTTP 200 and OK, expected 400.
+Result: 10 reproduced defects; BUG-06 remains unconfirmed.
+Limitation: setup/test/investigation percentages were not recorded; no percentages invented.
+Evidence validation completed. Defect reproduction is not a pass of application requirements.

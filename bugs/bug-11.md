@@ -34,3 +34,5 @@ Session-ийн GET before/after body ижил гурван номтой байс
 - [curl — bug-11-plain-text-curl.txt](../evidence/bug-11-plain-text-curl.txt)
 - [curl — bug-11-trailing-comma-curl.txt](../evidence/bug-11-trailing-comma-curl.txt)
 - [curl — recheck/bug-11-curl.txt](../evidence/recheck/bug-11-curl.txt)
+
+Шинэ clone-ийн эцсийн HTTP шалгалт: [бүтэн curl гаралт](../evidence/recheck/final-clone-json-curl.txt).

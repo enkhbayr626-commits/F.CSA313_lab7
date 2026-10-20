@@ -20,7 +20,7 @@
 
 Дутуу талбарын хувилбаруудыг нэг согогт нэгтгэсэн; зургууд нь session-ийн өмнөх нэмэлт мөрүүдтэй төлөвүүд юм.
 
-Баталгаажуулалт: session-ийн зураг, тэмдэглэлд тулгуурласан. Энэ commit-д Firefox дээр шинээр асаасан төлөвөөс UI-ийн дахин шалгалт хийгдээгүй.
+Баталгаажуулалт: 2026-10-20-нд шинэ clone-ийн аппыг дахин асааж, Chromium суурьтай апп доторх браузераар зөрчлийг давтан шалгасан. Session-ийн эх зураг нь Firefox-ийнх; доорх recheck зургууд тусдаа.
 
 ## Хавсралт
 
@@ -29,3 +29,9 @@
 ![BUG-01](../screenshots/bug-01-missing-title-author.png)
 
 ![BUG-01](../screenshots/bug-01-missing-year.png)
+
+## Дахин шалгасан зураг
+
+![BUG-01 recheck](../screenshots/recheck/bug-01-missing-title.jpg)
+
+![BUG-01 recheck](../screenshots/recheck/bug-01-missing-year.jpg)

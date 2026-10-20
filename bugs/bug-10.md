@@ -28,3 +28,5 @@ curl -i --max-time 10 http://localhost:3000/old
 
 - [curl — bug-10-curl.txt](../evidence/bug-10-curl.txt)
 - [curl — recheck/bug-10-curl.txt](../evidence/recheck/bug-10-curl.txt)
+
+Шинэ clone-ийн эцсийн HTTP шалгалт: [бүтэн curl гаралт](../evidence/recheck/final-clone-old-curl.txt).

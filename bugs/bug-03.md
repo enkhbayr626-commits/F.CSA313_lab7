@@ -21,7 +21,7 @@
 
 Гарчиг ба зохиолчийн үсгийн хэмжээний хувилбаруудыг нэг согогт нэгтгэв; кодын шалтгааныг тогтоогоогүй.
 
-Баталгаажуулалт: session-ийн зураг, тэмдэглэлд тулгуурласан. Энэ commit-д Firefox дээр шинээр асаасан төлөвөөс UI-ийн дахин шалгалт хийгдээгүй.
+Баталгаажуулалт: 2026-10-20-нд шинэ clone-ийн аппыг дахин асааж, Chromium суурьтай апп доторх браузераар зөрчлийг давтан шалгасан. Session-ийн эх зураг нь Firefox-ийнх; доорх recheck зургууд тусдаа.
 
 ## Хавсралт
 
@@ -34,3 +34,9 @@
 ![BUG-03](../screenshots/search-author-original-case.png)
 
 ![BUG-03](../screenshots/bug-03-search-author-lowercase.png)
+
+## Дахин шалгасан зураг
+
+![BUG-03 recheck](../screenshots/recheck/bug-03-original-case.jpg)
+
+![BUG-03 recheck](../screenshots/recheck/bug-03-lowercase.jpg)
