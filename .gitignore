@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+node_modules/
+*.docx
+*.rar
+.lab07-setup.sh
