@@ -24,3 +24,5 @@ Firefox-оор `http://localhost:3000` нээнэ. Дахин асаахад а�
 `app.js` нь багшийн өгсөн «Уншлагын жагсаалт» v2.0 апп.
 
 Session: [тайлан](session-report.md), [эх тэмдэглэл](session-notes.txt), [зураг](screenshots/), [API нотолгоо](evidence/).
+
+Согогууд: [тайлангууд](bugs/README.md).
